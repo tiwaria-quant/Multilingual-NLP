@@ -37,7 +37,7 @@ models preserve semantic similarity between English and Indic languages.
 We use aligned sentence pairs from the **FLORES-200** benchmark.
 
 Dataset source:
-- `haoranxu/FLORES-200` (HuggingFace)
+- `haoranxu/FLORES-200` (HuggingFace - https://huggingface.co/datasets/haoranxu/FLORES-200)
 
 Each language pair contains 1,012 professionally translated sentences.
 We evaluate on a subset of 200 sentence pairs.
