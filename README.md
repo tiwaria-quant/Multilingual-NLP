@@ -4,7 +4,7 @@ This project evaluates the cross-lingual alignment quality of multilingual
 sentence embedding models on Indic languages using the FLORES-200 benchmark.
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/tiwaria-quant/Multilingual-NLP/blob/main/result.ipynb)
+(https://colab.research.google.com/github/tiwaria-quant/Multilingual-NLP/blob/main/final.ipynb)
 
 We compare:
 - **MiniLM (multilingual)**
